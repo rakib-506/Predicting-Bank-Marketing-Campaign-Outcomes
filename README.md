@@ -194,7 +194,7 @@ jupyter notebook notebook/bank_marketing_prediction.ipynb
 
 **[RAKIB HASAN]**
 Machine Learning / Predictive Analytics
-📧 [rakib.hasan1@g.bracu.ac.bd] · 🔗 [LinkedIn][https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rakib-hasan-profile/]
+📧 [rakib.hasan1@g.bracu.ac.bd] · 🔗 [LinkedIn][https://www.linkedin.com/in/rakib-hasan-profile/]
 
 ---
 
