@@ -192,9 +192,9 @@ jupyter notebook notebook/bank_marketing_prediction.ipynb
 
 ## 👤 Author
 
-**[Your Name]**
-Course project — Machine Learning / Predictive Analytics
-📧 [your.email@example.com] · 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)
+**[RAKIB HASAN]**
+Machine Learning / Predictive Analytics
+📧 [rakib.hasan1@g.bracu.ac.bd] · 🔗 [LinkedIn]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/rakib-hasan-profile/))
 
 ---
 
